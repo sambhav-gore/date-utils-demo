@@ -17,7 +17,7 @@ Converting from Display format to Api format:
 
 ```
 const dateStr = "07/17/2018"
-const displayFormat = convertFromDisplayFormat(dateStr); // gets "2018-07-17T00:00:00.000Z"
+const apiFormat = convertFromDisplayFormat(dateStr); // gets "2018-07-17T00:00:00.000Z"
 ```
 
 ### Chnaging the formats:
