@@ -23,6 +23,7 @@ const apiFormat = convertFromDisplayFormat(dateStr); // gets "2018-07-17T00:00:0
 ### Chnaging the formats:
 
 If the display or API formats are to be changed, you can modify the constant formats defined in the `date-utils.js` file
+Link to [date-utils.js](https://github.com/sambhav-gore/date-utils-demo/blob/master/src/date-utils.js)
 
 ### See on Codesandbox
 
